@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋 My name is Dax
 
 - 🔭 I’m currently studying at 42 Madrid
 - 🌱 I’m currently learning software development

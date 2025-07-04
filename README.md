@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning software development
 - 📫 How to reach me: https://www.linkedin.com/in/daxferab/
 - ⚡ Fun fact: I love physics and computer science!
-- Currently working on [Minishell](https://github.com/daxferab/minishell_wip)
+- Currently working on [Philosophers](https://github.com/daxferab/42_philosophers_wip)

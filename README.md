@@ -8,6 +8,8 @@
 ## Recent projects
 - [IRC Server written in C++](https://github.com/daxferab/ircserv)
 - [Docker web infrastructure](https://github.com/daxferab/42_cursus/tree/main/Rank05/inception)
+- [Ray tracing project in C](https://github.com/daxferab/42_cursus/tree/main/Rank04/miniRT)
+- [Small Shell implementation](https://github.com/daxferab/42_cursus/tree/main/Rank03/minishell)
 
 ## Languages and tools
 <p align="center">

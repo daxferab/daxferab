@@ -11,31 +11,16 @@
 - [Ray tracing project in C](https://github.com/daxferab/42_cursus/tree/main/Rank04/miniRT)
 - [Small Shell implementation](https://github.com/daxferab/42_cursus/tree/main/Rank03/minishell)
 
-## Languages and tools
+## Tools and tech stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=bash,git,docker,linux,c,cpp" />
  </a>
 </p>
 
-### General programming
+### Fullstack development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java" />
- </a>
-</p>
-
-### Web dev
-#### Frontend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,js,ts" />
- </a>
-</p>
-
-#### Backend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,nodejs,php,mysql,postgresql" />
  </a>
 </p>

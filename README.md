@@ -14,6 +14,28 @@
 ## Languages and tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,bash,git,docker,linux,html,css,js,php,mysql" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=bash,git,docker,linux" />
+ </a>
+</p>
+
+### General programming
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java" />
+ </a>
+</p>
+
+### Web dev
+#### Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,js,ts" />
+ </a>
+</p>
+
+#### Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,postgresql" />
+ </a>
 </p>

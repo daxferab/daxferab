@@ -21,6 +21,6 @@
 ### Fullstack development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,nodejs,php,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=react,vite,html,css,js,ts,nodejs,php,mysql,postgresql" />
  </a>
 </p>

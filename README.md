@@ -14,7 +14,7 @@
 ## Tools and tech stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,docker,linux,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=bash,git,docker,linux,c,cpp&theme=light" />
  </a>
 </p>
 
